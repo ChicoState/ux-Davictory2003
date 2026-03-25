@@ -6,4 +6,4 @@ Hi, my name is David Gomes and I'm a senior at Chico majoring in Computer Scienc
 
 ## UX Journal
 
-* [Journal 01](./j01/)
+* [Journal 01](j01.md)
