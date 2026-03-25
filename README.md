@@ -3,3 +3,7 @@
 Hi, my name is David Gomes and I'm a senior at Chico majoring in Computer Science
 
 <img src="assets/Me.jpg">
+
+## UX Journal
+
+* [Journal 01](./j01/)
